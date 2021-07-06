@@ -137,7 +137,7 @@ The following exercise focuses on the Import Data module to load data into a mac
 
     > Please note that the button name in the UI is changed from **Run** to **Submit**.
 
-3. Wait for pipeline run to complete. It will take around **32 minutes** to complete the run.
+3. Wait for pipeline run to complete. It will take around **30 minutes** to complete the run.
 
 ### Task 4: Save the clean dataset
 
