@@ -137,7 +137,7 @@ The following exercise focuses on the Import Data module to load data into a mac
 
     > Please note that the button name in the UI is changed from **Run** to **Submit**.
 
-3. Wait for pipeline run to complete. It will take around **8 minutes** to complete the run.
+3. Wait for pipeline run to complete. It will take around **32 minutes** to complete the run.
 
 ### Task 4: Save the clean dataset
 
@@ -145,7 +145,7 @@ The following exercise focuses on the Import Data module to load data into a mac
 
     ![Image shows how to open the Save as dataset dialog.](images/18.png 'Save the cleaned dataset')
 
-2. Check the option to create a new dataset and enter `crime-all` in the dataset name field. Select **Save** to close the dialog.
+2. Check the option to create a new dataset and enter `crime-all` in the dataset name field. Choose either **File or Tabular** dataset type and Select **Save** to close the dialog.
 
     ![Image shows the Create dataset dialog.](images/19.png 'Create new dataset dialog')![](media/19.png)
 
