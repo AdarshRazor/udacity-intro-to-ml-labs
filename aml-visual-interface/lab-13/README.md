@@ -166,7 +166,7 @@ In this lab, we will be using the `Weather Dataset` that has weather data for 66
 
     ![Image shows how to provide the experiment name in the setup pipeline run editor and start the pipeline run.](images/20.png 'Submit Pipeline')
 
-3. Wait for pipeline run to complete. It will take around **10 minutes** to complete the run.
+3. Wait for pipeline run to complete. It will take around **30 minutes** to complete the run.
 
 4. While you wait for the model training to complete, you can learn more about the K-Means Clustering algorithm used in this lab by selecting [K-Means Clustering](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/k-means-clustering#configure-the-k-means-clustering-module).
 
