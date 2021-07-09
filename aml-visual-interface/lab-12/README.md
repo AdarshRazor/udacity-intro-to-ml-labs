@@ -121,7 +121,7 @@ In this lab, we will use Automated Machine Learning to find the best performing 
 
 ## Task 2: Monitor Experiment
 
-1. The experiment will run for about *10 min*.
+1. The experiment will run for about *20 min*.
 
 2. In the **Details** tab, observe the **run status** of the job.
 
